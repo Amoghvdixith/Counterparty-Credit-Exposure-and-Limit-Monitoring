@@ -1,0 +1,30 @@
+{
+  "run_name": "baseline",
+  "reporting_entity": "Synthetic Reporting Entity (fictional)",
+  "reporting_currency": "GBP",
+  "paths": {
+    "raw_dir": "data/raw",
+    "results_dir": "results/baseline"
+  },
+  "generation": {
+    "seed": 42,
+    "start_date": "2026-01-05",
+    "n_business_days": 60,
+    "n_counterparties": 40,
+    "target_n_trades": 400,
+    "currencies": ["GBP", "USD", "EUR"],
+    "fx_start": {"GBP": 1.0, "USD": 0.79, "EUR": 0.855},
+    "fx_daily_vol": 0.003
+  },
+  "limits": {
+    "warning_threshold_pct": 80.0,
+    "at_limit_tolerance_gbp": 0.01
+  },
+  "reconciliation": {
+    "abs_tolerance": 0.01,
+    "rel_tolerance": 1e-9
+  },
+  "concentration": {
+    "top_n": 10
+  }
+}

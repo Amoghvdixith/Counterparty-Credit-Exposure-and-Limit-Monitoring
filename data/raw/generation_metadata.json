@@ -1,0 +1,157 @@
+{
+  "description": "SYNTHETIC data for the Counterparty Credit Exposure and Limit Monitoring project. All counterparties, trades, valuations, collateral, ratings and limits are fictional.",
+  "generator_version": "1.0.0",
+  "seed": 42,
+  "parameters": {
+    "seed": 42,
+    "start_date": "2026-01-05",
+    "n_business_days": 60,
+    "n_counterparties": 40,
+    "target_n_trades": 400,
+    "currencies": [
+      "GBP",
+      "USD",
+      "EUR"
+    ],
+    "fx_start": {
+      "GBP": 1.0,
+      "USD": 0.79,
+      "EUR": 0.855
+    },
+    "fx_daily_vol": 0.003
+  },
+  "business_calendar": "pandas.bdate_range Monday-Friday index; NOT an exchange or settlement holiday calendar.",
+  "date_range": {
+    "start": "2026-01-05",
+    "end": "2026-03-27",
+    "n_dates": 60
+  },
+  "row_counts": {
+    "counterparties": 40,
+    "netting_sets": 50,
+    "trades": 22485,
+    "collateral": 1140,
+    "ratings": 40,
+    "limits": 41,
+    "fx_rates": 180,
+    "control_totals": 426
+  },
+  "distinct_trades": 400,
+  "distinct_netting_sets": 50,
+  "scenario_counterparties": [
+    {
+      "counterparty_id": "CP001",
+      "scenario": "within_limit",
+      "description": "Netting set with +5.0m (gently oscillating) and -1.0m GBP trades against a 10m GBP limit; utilisation about 40%."
+    },
+    {
+      "counterparty_id": "CP002",
+      "scenario": "warning_utilisation",
+      "description": "USD trades netting to about 11.3m USD (about 8.9m GBP) against a 10m GBP limit; utilisation between 80% and 100% on every date."
+    },
+    {
+      "counterparty_id": "CP003",
+      "scenario": "breach",
+      "description": "EUR exposure ramps linearly from 8m to 16m EUR against a 14m EUR limit; status moves Within Limit -> Warning -> Breach."
+    },
+    {
+      "counterparty_id": "CP004",
+      "scenario": "positive_exposure_zero_limit",
+      "description": "+2.0m GBP exposure with an approved limit of 0."
+    },
+    {
+      "counterparty_id": "CP005",
+      "scenario": "zero_exposure_zero_limit",
+      "description": "Only negative MTM (payable) trades in a netting set; exposure 0 with a limit of 0."
+    },
+    {
+      "counterparty_id": "CP006",
+      "scenario": "missing_effective_limit",
+      "description": "Only limit expires (effective_to exclusive) on 2026-02-16; no effective limit from that date."
+    },
+    {
+      "counterparty_id": "CP007",
+      "scenario": "missing_effective_rating",
+      "description": "No rating record at all; reported as Unrated and flagged."
+    },
+    {
+      "counterparty_id": "CP008",
+      "scenario": "rating_downgrade",
+      "description": "Rating A until 2026-02-09 (exclusive), BBB from 2026-02-09."
+    },
+    {
+      "counterparty_id": "CP009",
+      "scenario": "limit_change",
+      "description": "Limit cut from 15m to 9m GBP effective 2026-02-23 against stable 8m GBP exposure; Within Limit -> Warning."
+    },
+    {
+      "counterparty_id": "CP010",
+      "scenario": "overcollateralisation",
+      "description": "+3.0m GBP exposure with 5.0m GBP eligible cash collateral received; net exposure floored at 0, 2.0m surplus unused."
+    },
+    {
+      "counterparty_id": "CP011",
+      "scenario": "offset_netting_permitted",
+      "description": "+6.0m and -4.0m GBP trades in a netting-permitted set; pre-collateral exposure 2.0m."
+    },
+    {
+      "counterparty_id": "CP012",
+      "scenario": "offset_netting_not_permitted",
+      "description": "+6.0m and -4.0m GBP trades in a non-netting set; pre-collateral exposure 6.0m; 1.0m collateral on the set is unsupported and not recognised."
+    },
+    {
+      "counterparty_id": "CP013",
+      "scenario": "no_cross_set_collateral_transfer",
+      "description": "Set 01: +2.0m exposure with 5.0m collateral (3.0m surplus). Set 02: +4.0m with no collateral. Counterparty exposure is 4.0m, not 1.0m."
+    },
+    {
+      "counterparty_id": "CP014",
+      "scenario": "maturing_trade",
+      "description": "+4.0m GBP trade matures 2026-02-13 (excluded from that date; reported MATURED for three days, then dropped); +1.0m long-dated trade remains."
+    },
+    {
+      "counterparty_id": "CP015",
+      "scenario": "ineligible_collateral",
+      "description": "2.0m EUR bond collateral marked ineligible; not recognised; exposure stays 3.0m GBP."
+    },
+    {
+      "counterparty_id": "CP016",
+      "scenario": "posted_collateral",
+      "description": "Collateral posted by the reporting entity (direction POSTED) is flagged and not recognised as an offset."
+    },
+    {
+      "counterparty_id": "CP017",
+      "scenario": "at_limit",
+      "description": "Constant +5,000,000.00 GBP exposure against a 5,000,000 GBP limit; At Limit within tolerance."
+    }
+  ],
+  "scenario_verification": {
+    "within_limit": true,
+    "warning_utilisation": true,
+    "breach": true,
+    "positive_exposure_zero_limit": true,
+    "zero_exposure_zero_limit": true,
+    "missing_effective_limit": true,
+    "missing_effective_rating": "True",
+    "rating_downgrade": "True",
+    "limit_change": true,
+    "overcollateralisation": true,
+    "offset_netting_permitted": true,
+    "offset_netting_not_permitted": true,
+    "no_cross_set_collateral_transfer": true,
+    "maturing_trade": true,
+    "ineligible_collateral": true,
+    "posted_collateral": true,
+    "at_limit": true,
+    "background_trades_mature_in_period": true,
+    "multiple_netting_sets_present": true
+  },
+  "conventions": {
+    "mtm_sign": "Positive = receivable to the reporting entity; negative = payable by the reporting entity.",
+    "fx": "GBP amount = local amount x gbp_per_unit; GBP rate = 1.",
+    "maturity_feed": "Trades are reported ACTIVE up to and including maturity date, MATURED with MTM 0 for three business days afterwards, then dropped.",
+    "termination_feed": "Terminated trades are reported TERMINATED with MTM 0 for two business days, then dropped.",
+    "background_limits": "Background counterparty limits are set to simulated peak exposure x U(1.3, 3.0), except three 'tight' counterparties at x U(0.95, 1.2), converted at first-date FX and rounded up to 100,000.",
+    "control_totals": "Built from the raw string tables before downstream processing: row counts and signed local-currency amount totals by table/date/currency."
+  }
+}

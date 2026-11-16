@@ -1,0 +1,343 @@
+as_of_date,counterparty_id,counterparty_name,limit_status,alert_severity,net_current_exposure_gbp,limit_id,limit_currency,limit_amount,limit_gbp,utilisation_pct,headroom_gbp,run_id
+2026-01-05,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-05,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-05,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-05,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8927000.0,LIM-0002,GBP,10000000.0,10000000.0,89.27,1073000.0,baseline-7e6d46ebd870
+2026-01-06,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-06,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-06,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-06,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8952967.4,LIM-0002,GBP,10000000.0,10000000.0,89.5297,1047032.6,baseline-7e6d46ebd870
+2026-01-07,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-07,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-07,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-07,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8907880.4,LIM-0002,GBP,10000000.0,10000000.0,89.0788,1092119.6,baseline-7e6d46ebd870
+2026-01-08,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-08,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-08,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-08,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8898942.1,LIM-0002,GBP,10000000.0,10000000.0,88.9894,1101057.9,baseline-7e6d46ebd870
+2026-01-09,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-09,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-09,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-09,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8903281.3,LIM-0002,GBP,10000000.0,10000000.0,89.0328,1096718.7,baseline-7e6d46ebd870
+2026-01-12,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-12,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-12,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-12,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8918954.4,LIM-0002,GBP,10000000.0,10000000.0,89.1895,1081045.6,baseline-7e6d46ebd870
+2026-01-13,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-13,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-13,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-13,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8938006.2,LIM-0002,GBP,10000000.0,10000000.0,89.3801,1061993.8,baseline-7e6d46ebd870
+2026-01-14,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-14,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-14,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-14,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8959306.7,LIM-0002,GBP,10000000.0,10000000.0,89.5931,1040693.3,baseline-7e6d46ebd870
+2026-01-14,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3477503.66,LIM-0026,USD,5300000.0,4202152.7,82.7553,724649.04,baseline-7e6d46ebd870
+2026-01-15,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-15,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-15,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-15,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8949939.0,LIM-0002,GBP,10000000.0,10000000.0,89.4994,1050061.0,baseline-7e6d46ebd870
+2026-01-15,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3503885.64,LIM-0026,USD,5300000.0,4197759.0,83.4704,693873.36,baseline-7e6d46ebd870
+2026-01-16,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-16,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-16,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-16,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8937531.6,LIM-0002,GBP,10000000.0,10000000.0,89.3753,1062468.4,baseline-7e6d46ebd870
+2026-01-16,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3435919.02,LIM-0026,USD,5300000.0,4191939.6,81.9649,756020.58,baseline-7e6d46ebd870
+2026-01-19,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-19,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-19,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-19,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8960561.0,LIM-0002,GBP,10000000.0,10000000.0,89.6056,1039439.0,baseline-7e6d46ebd870
+2026-01-19,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3390315.08,LIM-0026,USD,5300000.0,4202741.0,80.6691,812425.92,baseline-7e6d46ebd870
+2026-01-20,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-20,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-20,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-20,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8955419.5,LIM-0002,GBP,10000000.0,10000000.0,89.5542,1044580.5,baseline-7e6d46ebd870
+2026-01-20,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3447471.86,LIM-0026,USD,5300000.0,4200329.5,82.0762,752857.64,baseline-7e6d46ebd870
+2026-01-21,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-21,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-21,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-21,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8921214.4,LIM-0002,GBP,10000000.0,10000000.0,89.2121,1078785.6,baseline-7e6d46ebd870
+2026-01-22,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-22,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-22,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-22,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8890941.7,LIM-0002,GBP,10000000.0,10000000.0,88.9094,1109058.3,baseline-7e6d46ebd870
+2026-01-23,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-23,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-23,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-23,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8866443.3,LIM-0002,GBP,10000000.0,10000000.0,88.6644,1133556.7,baseline-7e6d46ebd870
+2026-01-26,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-26,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-26,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-26,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8879675.6,LIM-0002,GBP,10000000.0,10000000.0,88.7968,1120324.4,baseline-7e6d46ebd870
+2026-01-27,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-27,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-27,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-27,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8883472.4,LIM-0002,GBP,10000000.0,10000000.0,88.8347,1116527.6,baseline-7e6d46ebd870
+2026-01-28,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-28,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-28,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-28,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8901891.4,LIM-0002,GBP,10000000.0,10000000.0,89.0189,1098108.6,baseline-7e6d46ebd870
+2026-01-29,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-29,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-29,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-29,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8890489.7,LIM-0002,GBP,10000000.0,10000000.0,88.9049,1109510.3,baseline-7e6d46ebd870
+2026-01-30,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-01-30,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-01-30,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-01-30,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8894727.2,LIM-0002,GBP,10000000.0,10000000.0,88.9473,1105272.8,baseline-7e6d46ebd870
+2026-02-02,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-02,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-02,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-02,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8911428.6,LIM-0002,GBP,10000000.0,10000000.0,89.1143,1088571.4,baseline-7e6d46ebd870
+2026-02-03,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-03,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-03,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-03,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8903168.3,LIM-0002,GBP,10000000.0,10000000.0,89.0317,1096831.7,baseline-7e6d46ebd870
+2026-02-04,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-04,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-04,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-04,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8915372.3,LIM-0002,GBP,10000000.0,10000000.0,89.1537,1084627.7,baseline-7e6d46ebd870
+2026-02-05,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-05,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-05,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-05,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8897687.8,LIM-0002,GBP,10000000.0,10000000.0,88.9769,1102312.2,baseline-7e6d46ebd870
+2026-02-06,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-06,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-06,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-06,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8888003.7,LIM-0002,GBP,10000000.0,10000000.0,88.88,1111996.3,baseline-7e6d46ebd870
+2026-02-06,CP003,Synthetic Cedar Bank,Warning,MEDIUM,9619806.92,LIM-0003,EUR,14000000.0,11966808.0,80.3874,2347001.08,baseline-7e6d46ebd870
+2026-02-09,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-09,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-09,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-09,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8877833.7,LIM-0002,GBP,10000000.0,10000000.0,88.7783,1122166.3,baseline-7e6d46ebd870
+2026-02-09,CP003,Synthetic Cedar Bank,Warning,MEDIUM,9743521.63,LIM-0003,EUR,14000000.0,11976412.0,81.3559,2232890.37,baseline-7e6d46ebd870
+2026-02-10,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-10,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-10,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-10,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8846035.5,LIM-0002,GBP,10000000.0,10000000.0,88.4604,1153964.5,baseline-7e6d46ebd870
+2026-02-10,CP003,Synthetic Cedar Bank,Warning,MEDIUM,9835508.48,LIM-0003,EUR,14000000.0,11947250.0,82.3245,2111741.52,baseline-7e6d46ebd870
+2026-02-11,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-11,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-11,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-11,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8858974.0,LIM-0002,GBP,10000000.0,10000000.0,88.5897,1141026.0,baseline-7e6d46ebd870
+2026-02-11,CP003,Synthetic Cedar Bank,Warning,MEDIUM,9938824.68,LIM-0003,EUR,14000000.0,11932368.0,83.293,1993543.32,baseline-7e6d46ebd870
+2026-02-12,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-12,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-12,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-12,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8846498.8,LIM-0002,GBP,10000000.0,10000000.0,88.465,1153501.2,baseline-7e6d46ebd870
+2026-02-12,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10035942.51,LIM-0003,EUR,14000000.0,11910472.0,84.2615,1874529.49,baseline-7e6d46ebd870
+2026-02-13,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-13,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-13,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-13,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8846837.8,LIM-0002,GBP,10000000.0,10000000.0,88.4684,1153162.2,baseline-7e6d46ebd870
+2026-02-13,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10147014.51,LIM-0003,EUR,14000000.0,11905446.0,85.23,1758431.49,baseline-7e6d46ebd870
+2026-02-16,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-16,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-16,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-16,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-16,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8859606.8,LIM-0002,GBP,10000000.0,10000000.0,88.5961,1140393.2,baseline-7e6d46ebd870
+2026-02-16,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10295194.17,LIM-0003,EUR,14000000.0,11943582.0,86.1985,1648387.83,baseline-7e6d46ebd870
+2026-02-17,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-17,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-17,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-17,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-17,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8871483.1,LIM-0002,GBP,10000000.0,10000000.0,88.7148,1128516.9,baseline-7e6d46ebd870
+2026-02-17,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10415776.27,LIM-0003,EUR,14000000.0,11949210.0,87.1671,1533433.73,baseline-7e6d46ebd870
+2026-02-18,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-18,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-18,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-18,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-18,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8889201.5,LIM-0002,GBP,10000000.0,10000000.0,88.892,1110798.5,baseline-7e6d46ebd870
+2026-02-18,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10526497.49,LIM-0003,EUR,14000000.0,11943526.0,88.1356,1417028.51,baseline-7e6d46ebd870
+2026-02-19,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-19,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-19,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-19,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-19,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8886579.9,LIM-0002,GBP,10000000.0,10000000.0,88.8658,1113420.1,baseline-7e6d46ebd870
+2026-02-19,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10609153.08,LIM-0003,EUR,14000000.0,11906468.0,89.1041,1297314.92,baseline-7e6d46ebd870
+2026-02-20,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-20,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-20,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-20,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-20,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8875302.5,LIM-0002,GBP,10000000.0,10000000.0,88.753,1124697.5,baseline-7e6d46ebd870
+2026-02-20,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10670725.42,LIM-0003,EUR,14000000.0,11846800.0,90.0726,1176074.58,baseline-7e6d46ebd870
+2026-02-23,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-23,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-23,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-23,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-23,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8873178.1,LIM-0002,GBP,10000000.0,10000000.0,88.7318,1126821.9,baseline-7e6d46ebd870
+2026-02-23,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10769748.88,LIM-0003,EUR,14000000.0,11829538.0,91.0412,1059789.12,baseline-7e6d46ebd870
+2026-02-23,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-02-23,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3449621.0,LIM-0026,USD,5300000.0,4161756.1,82.8886,712135.1,baseline-7e6d46ebd870
+2026-02-24,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-24,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-24,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-24,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-24,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8828373.6,LIM-0002,GBP,10000000.0,10000000.0,88.2837,1171626.4,baseline-7e6d46ebd870
+2026-02-24,CP003,Synthetic Cedar Bank,Warning,MEDIUM,10882555.93,LIM-0003,EUR,14000000.0,11827620.0,92.0097,945064.07,baseline-7e6d46ebd870
+2026-02-24,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-02-24,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3623830.32,LIM-0026,USD,5300000.0,4140741.6,87.5165,516911.28,baseline-7e6d46ebd870
+2026-02-25,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-25,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-25,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-25,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-25,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8790134.4,LIM-0002,GBP,10000000.0,10000000.0,87.9013,1209865.6,baseline-7e6d46ebd870
+2026-02-25,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11055594.3,LIM-0003,EUR,14000000.0,11890522.0,92.9782,834927.7,baseline-7e6d46ebd870
+2026-02-25,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-02-25,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3300982.85,LIM-0026,USD,5300000.0,4122806.4,80.0664,821823.55,baseline-7e6d46ebd870
+2026-02-26,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-26,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-26,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-26,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-26,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8755319.1,LIM-0002,GBP,10000000.0,10000000.0,87.5532,1244680.9,baseline-7e6d46ebd870
+2026-02-26,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11175123.39,LIM-0003,EUR,14000000.0,11895170.0,93.9467,720046.61,baseline-7e6d46ebd870
+2026-02-26,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-02-26,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3606295.45,LIM-0026,USD,5300000.0,4106477.1,87.8197,500181.65,baseline-7e6d46ebd870
+2026-02-27,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-02-27,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-02-27,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-02-27,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-02-27,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8729170.9,LIM-0002,GBP,10000000.0,10000000.0,87.2917,1270829.1,baseline-7e6d46ebd870
+2026-02-27,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11323670.78,LIM-0003,EUR,14000000.0,11930296.0,94.9153,606625.22,baseline-7e6d46ebd870
+2026-02-27,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-02-27,CP025,Synthetic Aster Capital Partners,Warning,MEDIUM,3514974.72,LIM-0026,USD,5300000.0,4094212.9,85.8523,579238.18,baseline-7e6d46ebd870
+2026-03-02,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-02,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-02,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-02,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-02,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8739646.0,LIM-0002,GBP,10000000.0,10000000.0,87.3965,1260354.0,baseline-7e6d46ebd870
+2026-03-02,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11422089.76,LIM-0003,EUR,14000000.0,11912432.0,95.8838,490342.24,baseline-7e6d46ebd870
+2026-03-02,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-03,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-03,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-03,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-03,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-03,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8715938.6,LIM-0002,GBP,10000000.0,10000000.0,87.1594,1284061.4,baseline-7e6d46ebd870
+2026-03-03,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11496528.81,LIM-0003,EUR,14000000.0,11870166.0,96.8523,373637.19,baseline-7e6d46ebd870
+2026-03-03,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-04,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-04,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-04,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-04,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-04,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8706051.1,LIM-0002,GBP,10000000.0,10000000.0,87.0605,1293948.9,baseline-7e6d46ebd870
+2026-03-04,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11577914.17,LIM-0003,EUR,14000000.0,11835838.0,97.8208,257923.83,baseline-7e6d46ebd870
+2026-03-04,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-05,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-05,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-05,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-05,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-05,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8740052.8,LIM-0002,GBP,10000000.0,10000000.0,87.4005,1259947.2,baseline-7e6d46ebd870
+2026-03-05,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11667140.34,LIM-0003,EUR,14000000.0,11810120.0,98.7893,142979.66,baseline-7e6d46ebd870
+2026-03-05,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-06,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-06,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-06,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-06,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-06,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8730719.0,LIM-0002,GBP,10000000.0,10000000.0,87.3072,1269281.0,baseline-7e6d46ebd870
+2026-03-06,CP003,Synthetic Cedar Bank,Warning,MEDIUM,11856996.88,LIM-0003,EUR,14000000.0,11885776.0,99.7579,28779.12,baseline-7e6d46ebd870
+2026-03-06,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-09,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-09,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-09,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-09,CP003,Synthetic Cedar Bank,Breach,HIGH,11942640.82,LIM-0003,EUR,14000000.0,11856516.0,100.7264,-86124.82,baseline-7e6d46ebd870
+2026-03-09,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-09,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8750053.3,LIM-0002,GBP,10000000.0,10000000.0,87.5005,1249946.7,baseline-7e6d46ebd870
+2026-03-09,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-10,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-10,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-10,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-10,CP003,Synthetic Cedar Bank,Breach,HIGH,12087842.04,LIM-0003,EUR,14000000.0,11886378.0,101.6949,-201464.04,baseline-7e6d46ebd870
+2026-03-10,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-10,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8725577.5,LIM-0002,GBP,10000000.0,10000000.0,87.2558,1274422.5,baseline-7e6d46ebd870
+2026-03-10,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-11,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-11,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-11,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-11,CP003,Synthetic Cedar Bank,Breach,HIGH,12169964.21,LIM-0003,EUR,14000000.0,11854234.0,102.6634,-315730.21,baseline-7e6d46ebd870
+2026-03-11,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-11,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8720210.0,LIM-0002,GBP,10000000.0,10000000.0,87.2021,1279790.0,baseline-7e6d46ebd870
+2026-03-11,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-12,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-12,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-12,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-12,CP003,Synthetic Cedar Bank,Breach,HIGH,12319145.77,LIM-0003,EUR,14000000.0,11887400.0,103.632,-431745.77,baseline-7e6d46ebd870
+2026-03-12,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-12,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8695383.9,LIM-0002,GBP,10000000.0,10000000.0,86.9538,1304616.1,baseline-7e6d46ebd870
+2026-03-12,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-13,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-13,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-13,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-13,CP003,Synthetic Cedar Bank,Breach,HIGH,12448658.44,LIM-0003,EUR,14000000.0,11901148.0,104.6005,-547510.44,baseline-7e6d46ebd870
+2026-03-13,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-13,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8686547.3,LIM-0002,GBP,10000000.0,10000000.0,86.8655,1313452.7,baseline-7e6d46ebd870
+2026-03-13,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-16,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-16,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-16,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-16,CP003,Synthetic Cedar Bank,Breach,HIGH,12558011.93,LIM-0003,EUR,14000000.0,11895548.0,105.569,-662463.93,baseline-7e6d46ebd870
+2026-03-16,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-16,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8708469.3,LIM-0002,GBP,10000000.0,10000000.0,87.0847,1291530.7,baseline-7e6d46ebd870
+2026-03-16,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-17,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-17,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-17,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-17,CP003,Synthetic Cedar Bank,Breach,HIGH,12671671.87,LIM-0003,EUR,14000000.0,11894092.0,106.5375,-777579.87,baseline-7e6d46ebd870
+2026-03-17,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-17,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8663461.4,LIM-0002,GBP,10000000.0,10000000.0,86.6346,1336538.6,baseline-7e6d46ebd870
+2026-03-17,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-17,CP026,Synthetic Bracken Capital Partners,Warning,MEDIUM,2856268.7,LIM-0027,GBP,3400000.0,3400000.0,84.0079,543731.3,baseline-7e6d46ebd870
+2026-03-18,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-18,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-18,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-18,CP003,Synthetic Cedar Bank,Breach,HIGH,12761779.12,LIM-0003,EUR,14000000.0,11870754.0,107.5061,-891025.12,baseline-7e6d46ebd870
+2026-03-18,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-18,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8674761.4,LIM-0002,GBP,10000000.0,10000000.0,86.7476,1325238.6,baseline-7e6d46ebd870
+2026-03-18,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-19,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-19,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-19,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-19,CP003,Synthetic Cedar Bank,Breach,HIGH,12893986.71,LIM-0003,EUR,14000000.0,11886644.0,108.4746,-1007342.71,baseline-7e6d46ebd870
+2026-03-19,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-19,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8680953.8,LIM-0002,GBP,10000000.0,10000000.0,86.8095,1319046.2,baseline-7e6d46ebd870
+2026-03-19,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-20,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-20,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-20,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-20,CP003,Synthetic Cedar Bank,Breach,HIGH,12991368.68,LIM-0003,EUR,14000000.0,11870432.0,109.4431,-1120936.68,baseline-7e6d46ebd870
+2026-03-20,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-20,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8665495.4,LIM-0002,GBP,10000000.0,10000000.0,86.655,1334504.6,baseline-7e6d46ebd870
+2026-03-20,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-23,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-23,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-23,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-23,CP003,Synthetic Cedar Bank,Breach,HIGH,13058247.87,LIM-0003,EUR,14000000.0,11826878.0,110.4116,-1231369.87,baseline-7e6d46ebd870
+2026-03-23,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-23,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8627979.4,LIM-0002,GBP,10000000.0,10000000.0,86.2798,1372020.6,baseline-7e6d46ebd870
+2026-03-23,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-24,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-24,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-24,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-24,CP003,Synthetic Cedar Bank,Breach,HIGH,13122381.02,LIM-0003,EUR,14000000.0,11781616.0,111.3801,-1340765.02,baseline-7e6d46ebd870
+2026-03-24,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-24,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8629843.9,LIM-0002,GBP,10000000.0,10000000.0,86.2984,1370156.1,baseline-7e6d46ebd870
+2026-03-24,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-25,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-25,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-25,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-25,CP003,Synthetic Cedar Bank,Breach,HIGH,13243346.44,LIM-0003,EUR,14000000.0,11787720.0,112.3487,-1455626.44,baseline-7e6d46ebd870
+2026-03-25,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-25,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8616148.3,LIM-0002,GBP,10000000.0,10000000.0,86.1615,1383851.7,baseline-7e6d46ebd870
+2026-03-25,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-26,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-26,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-26,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-26,CP003,Synthetic Cedar Bank,Breach,HIGH,13420939.12,LIM-0003,EUR,14000000.0,11843692.0,113.3172,-1577247.12,baseline-7e6d46ebd870
+2026-03-26,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-26,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8622171.2,LIM-0002,GBP,10000000.0,10000000.0,86.2217,1377828.8,baseline-7e6d46ebd870
+2026-03-26,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870
+2026-03-27,CP006,Synthetic Fir Industries,Missing Limit,HIGH,3000000.0,,,,,,,baseline-7e6d46ebd870
+2026-03-27,CP004,Synthetic Damson Bank,Zero Limit — Exposure,HIGH,2000000.0,LIM-0004,GBP,0.0,0.0,,-2000000.0,baseline-7e6d46ebd870
+2026-03-27,CP005,Synthetic Elm Energy,Zero Limit — No Exposure,INFO,0.0,LIM-0005,GBP,0.0,0.0,,0.0,baseline-7e6d46ebd870
+2026-03-27,CP003,Synthetic Cedar Bank,Breach,HIGH,13542144.0,LIM-0003,EUR,14000000.0,11849376.0,114.2857,-1692768.0,baseline-7e6d46ebd870
+2026-03-27,CP017,Synthetic Quince Energy,At Limit,MEDIUM,5000000.0,LIM-0018,GBP,5000000.0,5000000.0,100.0,0.0,baseline-7e6d46ebd870
+2026-03-27,CP002,Synthetic Birch Capital Partners,Warning,MEDIUM,8622736.2,LIM-0002,GBP,10000000.0,10000000.0,86.2274,1377263.8,baseline-7e6d46ebd870
+2026-03-27,CP009,Synthetic Ivy Industries,Warning,MEDIUM,8000000.0,LIM-0010,GBP,9000000.0,9000000.0,88.8889,1000000.0,baseline-7e6d46ebd870

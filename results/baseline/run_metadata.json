@@ -1,0 +1,159 @@
+{
+  "run_id": "baseline-7e6d46ebd870",
+  "run_status": "SUCCESS",
+  "synthetic_data_notice": "All inputs and results are SYNTHETIC and fictional.",
+  "execution_timestamp_utc": "2026-11-15T10:21:39+00:00",
+  "package_version": "0.1.0",
+  "python_version": "3.14.4",
+  "python_implementation": "CPython",
+  "platform": "Windows",
+  "dependency_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "matplotlib": "3.11.2",
+    "pytest": "9.2.0"
+  },
+  "config": {
+    "run_name": "baseline",
+    "reporting_entity": "Synthetic Reporting Entity (fictional)",
+    "reporting_currency": "GBP",
+    "paths": {
+      "raw_dir": "data/raw",
+      "results_dir": "results/baseline"
+    },
+    "generation": {
+      "seed": 42,
+      "start_date": "2026-01-05",
+      "n_business_days": 60,
+      "n_counterparties": 40,
+      "target_n_trades": 400,
+      "currencies": [
+        "GBP",
+        "USD",
+        "EUR"
+      ],
+      "fx_start": {
+        "GBP": 1.0,
+        "USD": 0.79,
+        "EUR": 0.855
+      },
+      "fx_daily_vol": 0.003
+    },
+    "limits": {
+      "warning_threshold_pct": 80.0,
+      "at_limit_tolerance_gbp": 0.01
+    },
+    "reconciliation": {
+      "abs_tolerance": 0.01,
+      "rel_tolerance": 1e-09
+    },
+    "concentration": {
+      "top_n": 10
+    }
+  },
+  "seed": 42,
+  "reporting_currency": "GBP",
+  "requested_as_of": null,
+  "raw_dir": "data/raw",
+  "source_files": {
+    "counterparties": "counterparties.csv",
+    "netting_sets": "netting_sets.csv",
+    "trades": "trades.csv",
+    "collateral": "collateral.csv",
+    "ratings": "ratings.csv",
+    "limits": "limits.csv",
+    "fx_rates": "fx_rates.csv",
+    "control_totals": "control_totals.csv"
+  },
+  "source_checksums_sha256": {
+    "counterparties": "40bba06eb3d301a4d75f8757721ad25c4b3cdded2cf65d44ce498de3acb23445",
+    "netting_sets": "d1b8b801958bce5491fc79129821666d0cce53bf83d3cc2c8d26ac2d9f8e96a2",
+    "trades": "e3d4dae586a3c87a08ad439a3b3439a82abedea9d5c145bbf61db98b8e44b407",
+    "collateral": "ec49a0923d9b51de46ab4bb305255afcc92486ef94c7b1b476d6619c34a97d08",
+    "ratings": "a40f84d0b9e0df8302c0ccb500fbe8014944fbcc75acb69359a07ab5170b6529",
+    "limits": "1c53c11b88bc64fe166509b24e75d478e9dbd55c39f2d685e71fac4ff761ecc3",
+    "fx_rates": "c52ca609f47ebc5f2a781bda8fdbd0b9316264503c3e8fd22d1ba26369a20e60",
+    "control_totals": "3fe409edcc2235c0147b8c82a6975156d18392b77acadc36875ad4584996cf21"
+  },
+  "input_row_counts": {
+    "counterparties": 40,
+    "netting_sets": 50,
+    "trades": 22485,
+    "collateral": 1140,
+    "ratings": 40,
+    "limits": 41,
+    "fx_rates": 180,
+    "control_totals": 426
+  },
+  "accepted_row_counts": {
+    "counterparties": 40,
+    "netting_sets": 50,
+    "trades": 22485,
+    "collateral": 1140,
+    "ratings": 40,
+    "limits": 41,
+    "fx_rates": 180,
+    "control_totals": 426
+  },
+  "quarantined_row_counts": {
+    "counterparties": 0,
+    "netting_sets": 0,
+    "trades": 0,
+    "collateral": 0,
+    "ratings": 0,
+    "limits": 0,
+    "fx_rates": 0,
+    "control_totals": 0
+  },
+  "figures": [
+    "figures/exposure_trend.png",
+    "figures/top10_counterparties.png",
+    "figures/limit_utilisation.png",
+    "figures/exposure_by_rating.png",
+    "figures/exposure_by_sector.png",
+    "figures/collateral_comparison.png",
+    "figures/limit_status_counts.png"
+  ],
+  "date_coverage": {
+    "first": "2026-01-05",
+    "latest": "2026-03-27",
+    "n_dates": 60
+  },
+  "issue_counts": {
+    "FATAL": 0,
+    "QUARANTINE": 0,
+    "WARNING": 9
+  },
+  "fatal_count": 0,
+  "warning_count": 9,
+  "rejected_record_count": 0,
+  "reconciliation": {
+    "controls": 2777,
+    "passed": 2777,
+    "failed": 0
+  },
+  "trade_population": {
+    "accepted_snapshots_in_scope": 22485,
+    "included": 22359,
+    "excluded": 126,
+    "excluded_by_reason": {
+      "MATURITY_ON_OR_BEFORE_AS_OF": 28,
+      "STATUS_MATURED": 84,
+      "STATUS_TERMINATED": 14
+    }
+  },
+  "outputs": [
+    "netting_set_exposure.csv",
+    "counterparty_exposure.csv",
+    "daily_summary.csv",
+    "limit_alerts.csv",
+    "top10_concentrations.csv",
+    "exposure_by_rating.csv",
+    "exposure_by_sector.csv",
+    "exposure_by_country.csv",
+    "exposure_by_parent.csv",
+    "data_quality_issues.csv",
+    "rejected_records.csv",
+    "reconciliation.csv"
+  ]
+}

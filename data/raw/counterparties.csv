@@ -1,0 +1,41 @@
+counterparty_id,counterparty_name,parent_group,country,sector
+CP001,Synthetic Alder Bank,Synthetic Parent Group 10,CH,Banks
+CP002,Synthetic Birch Capital Partners,Synthetic Parent Group 06,CA,Hedge Funds
+CP003,Synthetic Cedar Bank,Synthetic Parent Group 09,US,Banks
+CP004,Synthetic Damson Bank,Synthetic Parent Group 07,IE,Banks
+CP005,Synthetic Elm Energy,Synthetic Parent Group 10,JP,Corporates - Energy
+CP006,Synthetic Fir Industries,Synthetic Parent Group 07,US,Corporates - Industrials
+CP007,Synthetic Gorse Industries,Synthetic Parent Group 06,NL,Corporates - Industrials
+CP008,Synthetic Hazel Asset Management,Synthetic Parent Group 03,IE,Asset Managers
+CP009,Synthetic Ivy Industries,Synthetic Parent Group 08,FR,Corporates - Industrials
+CP010,Synthetic Juniper Industries,Synthetic Parent Group 07,FR,Corporates - Industrials
+CP011,Synthetic Kestrel Capital Partners,Synthetic Parent Group 03,GB,Hedge Funds
+CP012,Synthetic Larch Pension Scheme,Synthetic Parent Group 11,GB,Pension Funds
+CP013,Synthetic Maple Industries,Synthetic Parent Group 10,DE,Corporates - Industrials
+CP014,Synthetic Nettle Energy,Synthetic Parent Group 02,JP,Corporates - Energy
+CP015,Synthetic Oakmoss Energy,Synthetic Parent Group 05,GB,Corporates - Energy
+CP016,Synthetic Poplar Public Authority,Synthetic Parent Group 06,IE,Sovereign and Public Sector
+CP017,Synthetic Quince Energy,Synthetic Parent Group 10,JP,Corporates - Energy
+CP018,Synthetic Rowan Assurance,Synthetic Parent Group 05,NL,Insurance
+CP019,Synthetic Sorrel Capital Partners,Synthetic Parent Group 01,NL,Hedge Funds
+CP020,Synthetic Teasel Assurance,Synthetic Parent Group 09,JP,Insurance
+CP021,Synthetic Umber Public Authority,Synthetic Parent Group 09,FR,Sovereign and Public Sector
+CP022,Synthetic Vetch Public Authority,Synthetic Parent Group 05,DE,Sovereign and Public Sector
+CP023,Synthetic Willow Public Authority,Synthetic Parent Group 05,GB,Sovereign and Public Sector
+CP024,Synthetic Yarrow Capital Partners,Synthetic Parent Group 10,US,Hedge Funds
+CP025,Synthetic Aster Capital Partners,Synthetic Parent Group 02,JP,Hedge Funds
+CP026,Synthetic Bracken Capital Partners,Synthetic Parent Group 04,DE,Hedge Funds
+CP027,Synthetic Clover Pension Scheme,Synthetic Parent Group 09,IE,Pension Funds
+CP028,Synthetic Dogwood Capital Partners,Synthetic Parent Group 02,CA,Hedge Funds
+CP029,Synthetic Fennel Energy,Synthetic Parent Group 09,GB,Corporates - Energy
+CP030,Synthetic Heather Asset Management,Synthetic Parent Group 10,CA,Asset Managers
+CP031,Synthetic Iris Capital Partners,Synthetic Parent Group 10,CA,Hedge Funds
+CP032,Synthetic Laurel Capital Partners,Synthetic Parent Group 11,DE,Hedge Funds
+CP033,Synthetic Myrtle Assurance,Synthetic Parent Group 09,CH,Insurance
+CP034,Synthetic Osier Assurance,Synthetic Parent Group 10,US,Insurance
+CP035,Synthetic Primrose Industries,Synthetic Parent Group 01,CA,Corporates - Industrials
+CP036,Synthetic Rush Industries,Synthetic Parent Group 10,CH,Corporates - Industrials
+CP037,Synthetic Sedge Capital Partners,Synthetic Parent Group 09,DE,Hedge Funds
+CP038,Synthetic Thistle Industries,Synthetic Parent Group 07,NL,Corporates - Industrials
+CP039,Synthetic Violet Pension Scheme,Synthetic Parent Group 07,GB,Pension Funds
+CP040,Synthetic Wren Assurance,Synthetic Parent Group 03,US,Insurance

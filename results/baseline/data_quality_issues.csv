@@ -1,0 +1,10 @@
+run_id,severity,issue_class,table,check,as_of_date,counterparty_id,record_key,source_row,message
+baseline-7e6d46ebd870,WARNING,DATA_QUALITY,derived,MISSING_RATING,2026-01-05,CP007,,,No effective rating; reported as Unrated; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,MISSING_LIMIT,2026-02-16,CP006,,,Limit status 'Missing Limit'; 30 report date(s) from 2026-02-16 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,ZERO_LIMIT_WITH_EXPOSURE,2026-01-05,CP004,,,Limit status 'Zero Limit — Exposure'; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,ZERO_LIMIT_NO_EXPOSURE,2026-01-05,CP005,,,Limit status 'Zero Limit — No Exposure'; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,LIMIT_BREACH,2026-03-09,CP003,,,Limit status 'Breach'; 15 report date(s) from 2026-03-09 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,INELIGIBLE_COLLATERAL,2026-01-05,CP015,COL-NS-CP015-01-01,,Collateral marked ineligible; not recognised; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,DATA_QUALITY,derived,UNSUPPORTED_COLLATERAL_NON_NETTING_SET,2026-01-05,CP012,COL-NS-CP012-01-01,,Collateral assigned to a non-netting-permitted set; unsupported and not recognised; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,POSTED_COLLATERAL,2026-01-05,CP016,COL-NS-CP016-01-01,,Collateral posted by the reporting entity; not recognised as an offset; 60 report date(s) from 2026-01-05 to 2026-03-27
+baseline-7e6d46ebd870,WARNING,BUSINESS,derived,POSTED_COLLATERAL,2026-01-05,CP019,COL-NS-CP019-03-01,,Collateral posted by the reporting entity; not recognised as an offset; 60 report date(s) from 2026-01-05 to 2026-03-27
